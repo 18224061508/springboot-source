@@ -1,6 +1,6 @@
 package com.study.springbootsource.importSelect;
 
-@EnableUserService
+
 public class UserServiceImpl implements UserService{
 
     @Override
